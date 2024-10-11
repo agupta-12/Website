@@ -1,5 +1,7 @@
 <img class = "image" align = "left" style = "width:400px; max-width:100%" src = "/Images/Gupta - Large.jpg"/>
 
+<br/>
+
 Welcome! I'm a fifth year PhD student in the economics department at Boston University. My research focuses on organization economics, social learning, and game theory.
 
 <br clear = "left" />
