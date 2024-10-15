@@ -12,6 +12,22 @@ This paper studies how incentive problems affect the size and structure of a fir
 
 # Teaching
 
+### Teaching Fellow
+
+#### Masters
+
+Microeconomic Theory - _Boston University_ (Fall 2024)
+
+#### Undergraduate
+
+Introductory Microeconomics - _Boston University_ (Spring 2022; Fall 2022)
+
+Economics of Less Developed Regions - _Boston University_ (Fall 2021)
+
+Economics of Sports - _Boston University_ (Fall 2021)
+
+
+
 # Contact
 
 **Email** guptaayu@bu.edu
