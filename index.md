@@ -14,11 +14,7 @@ This paper studies how incentive problems affect the size and structure of a fir
 
 ### Teaching Fellow
 
-#### Masters
-
 Microeconomic Theory - _Boston University_ (Fall 2024)
-
-#### Undergraduate
 
 Introductory Microeconomics - _Boston University_ (Spring 2022; Fall 2022)
 
