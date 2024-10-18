@@ -26,4 +26,4 @@ Economics of Sports - _Boston University_ (Fall 2021)
 
 # Contact
 
-**Email** guptaayu@bu.edu
+**Email** guptaayu [at] bu.edu
