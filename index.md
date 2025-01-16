@@ -19,10 +19,15 @@ Introduction to Financial Economics (Undergraduate) - _Harvard University_ (Spri
 ### Teaching Fellow
 
 Microeconomic Theory (Masters) - _Boston University_ (Fall 2024)
+
 Introductory Microeconomics (Undergraduate) - _Boston University_ (Spring 2022; Fall 2022)
+
 Economics of Less Developed Regions (Undergraduate) - _Boston University_ (Fall 2021)
+
 Economics of Sports (Undergraduate) - _Boston University_ (Fall 2021)
+
 Game Theory (Undergraduate) - _University of Toronto_ (Spring 2018)
+
 Intermediate Macroeconomics (Undergraduate - _University of Toronto_ (Summer 2017)
 
 # Contact
