@@ -26,9 +26,9 @@ Economics of Less Developed Regions (Undergraduate) - _Boston University_ (Fall 
 
 Economics of Sports (Undergraduate) - _Boston University_ (Fall 2021)
 
-Game Theory (Undergraduate) - _University of Toronto_ (Spring 2018)
+Game Theory (Undergraduate) - _University of Toronto_ (Fall 2017)
 
-Intermediate Macroeconomics (Undergraduate - _University of Toronto_ (Summer 2017)
+Intermediate Macroeconomics (Undergraduate) - _University of Toronto_ (Summer 2017)
 
 # Contact
 
