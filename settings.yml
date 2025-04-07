@@ -1,0 +1,4 @@
+menu:
+- {name: 'Research', url: '/Research'}
+- {name: 'Teaching', url: '/Teaching'}
+- {name: 'Miscellaneous', url: '/Miscellaneous'}
