@@ -13,6 +13,8 @@ This paper studies how incentive problems affect the size and structure of a fir
 
 **Utility Maximization Under Endogenous Uncertainty** [PDF](Files/Note.pdf)
 
+This paper establishes a general existence result for optimal decision-making when choices affect the probabilities of uncertain outcomes. We introduce a continuity condition -- a version of upper semi-continuity for choice-dependent probability measures -- which ensures upper semi-continuity of expected utility. Our topological proof does not require standard assumptions such as concavity of preferences or monotonicity of outcome distributions. Additionally, we identify sufficient conditions, including continuity of densities and stochastic dominance, which allow the main assumption to be verified in relevant economic contexts. These findings expand the applicability of expected utility theory in settings with endogenous uncertainty.
+
 
 # Teaching
 
