@@ -8,7 +8,7 @@ Welcome! I'm a fifth year PhD student in the economics department at Boston Univ
 
 ### Working Papers
 
-**Incentives, Supervision, and Limits to Firm Size** <a href = "Files/Paper.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a>
+**Incentives, Supervision, and Limits to Firm Size** <a href = "Files/Paper.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a> <a href = "http://ssrn.com/abstract=5182004" target = "_blank" rel = "noopener noreferrer">[SSRN]</a>
 
 This paper studies how incentive problems affect the size and structure of a firm (or any other organization) with one principal and many agents. We develop a model in which worker effort, supervision, and wages are determined endogenously. Our model generalizes much of the existing literature by making minimal assumptions about the production technology and the nature of supervision. Using a novel optimization technique, we establish necessary and sufficient conditions for the size of a firm to not be limited by incentive problems. We show that firms are limited to a positive, but finite, number of workers under reasonable assumptions. Firm size is unbounded only when worker productivity is sufficiently greater than the dis-utility of effort.
 
