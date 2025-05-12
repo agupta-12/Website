@@ -22,6 +22,8 @@ This paper establishes a general existence result for optimal decision-making wh
 
 **Social Learning with Endogenous Timing and Payoff Externalities** (with Jiahao Shen)
 
+We study social learning in a model with asymmetrically informed agents, endogenous timing, and payoff externalities. In equilibrium, each agent employs a cutoff rule, and the most informed agents act first. When the number of agents and time periods is large, an initial herd copies the most informed agents. Eventually, however, the herd reverses and agents adopt the contrarian action. The resulting overshoot-and-reversal pattern matches puzzling dynamics observed in the global foreign exchange market and helps explain asset price bubbles in other markets, even when all agents are fully rational.
+
 
 # Teaching
 
