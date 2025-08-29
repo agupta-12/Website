@@ -1,12 +1,14 @@
 <img class = "image" align = "left" style = "width:375px; max-width:100%" src = "/Images/Gupta - Large.jpg"/>
 
-Welcome! I'm a fifth year PhD student in the economics department at Boston University. My research focuses on organization economics, social learning, and game theory.
+Welcome! I'm a sixth year PhD student in the economics department at Boston University. My research focuses on organization economics, social learning, and game theory.
 
 <br clear = "left" />
 
 # Research
 
 ### Working Papers
+
+**Rockets, Feathers, and Delays: Gasoline Price Cycles under Imperfect Monitoring** <a href = "Files/JMP.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a>
 
 **Incentives, Supervision, and Limits to Firm Size** <a href = "Files/Paper.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a> <a href = "http://ssrn.com/abstract=5182004" target = "_blank" rel = "noopener noreferrer">[SSRN]</a>
 
