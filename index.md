@@ -1,6 +1,8 @@
 <img class = "image" align = "left" style = "width:375px; max-width:100%" src = "/Images/Gupta - Large.jpg"/>
 
-Welcome! I'm a sixth year PhD student in the economics department at Boston University. My research focuses on organization economics, social learning, and game theory.
+Welcome! I'm a PhD candidate in economics at Boston University. I study microeconomic theory, with a focus on how uncertainty affects equilibrium outcomes. My research spans industrial organization, market design, social learning, and organizational economics.
+
+I will be on the job market in AY 2025-2026.
 
 <br clear = "left" />
 
