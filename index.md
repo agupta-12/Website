@@ -1,6 +1,6 @@
 <img class = "image" align = "left" style = "width:375px; max-width:100%" src = "/Images/Gupta - Large.jpg"/>
 
-Welcome! I'm a PhD candidate in economics at Boston University. I study microeconomic theory, with a focus on how uncertainty drives equilibrium outcomes. My research spans industrial organization, market design, social learning, and organizational economics.
+Welcome! I'm a PhD candidate in economics at Boston University. I study microeconomic theory and my research spans industrial organization, market design, social learning, and organizational economics. My work focuses on the role of uncertainty and incentives in equilibrium outcomes.
 
 I will be on the job market in AY 2025-2026.
 
