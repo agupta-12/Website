@@ -1,4 +1,4 @@
-<img class = "image" align = "left" style = "width:375px; max-width:100%" src = "/Images/Gupta - Large.jpg"/>
+<img class = "image" align = "left" style = "width:400px; max-width:100%" src = "/Images/2025.jpg"/>
 
 Welcome! I'm a PhD candidate in economics at Boston University. I study microeconomic theory and my research spans industrial organization, market design, social learning, and organizational economics. My work focuses on the role of uncertainty and incentives in equilibrium outcomes.
 
