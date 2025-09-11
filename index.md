@@ -5,6 +5,7 @@ Welcome! I'm a PhD candidate in economics at Boston University. I study microeco
 I will be on the job market in AY 2025-2026.
 
 <br clear = "left" />
+<br>
 
 # Research
 
@@ -38,6 +39,7 @@ This paper studies how incentive problems affect the size and structure of a fir
 
 We study social learning in a model with asymmetrically informed agents, endogenous timing, and payoff externalities. In equilibrium, each agent employs a cutoff rule, and the most informed agents act first. When the number of agents and time periods is large, an initial herd copies the most informed agents. Eventually, however, the herd reverses and agents adopt the contrarian action. The resulting overshoot-and-reversal pattern matches puzzling dynamics observed in the global foreign exchange market and helps explain asset price bubbles in other markets, even when all agents are fully rational.
 
+<br>
 
 # Teaching
 
@@ -58,6 +60,8 @@ Economics of Sports (Undergraduate) - _Boston University_ (Fall 2021)
 Game Theory (Undergraduate) - _University of Toronto_ (Fall 2017)
 
 Intermediate Macroeconomics (Undergraduate) - _University of Toronto_ (Summer 2017)
+
+<br>
 
 # Contact
 
