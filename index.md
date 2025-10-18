@@ -1,6 +1,6 @@
 <img class = "image" align = "left" style = "width:400px; max-width:100%" src = "/Images/2025.jpg"/>
 
-Welcome! I'm a PhD candidate in economics at Boston University. I study microeconomic theory and my research spans industrial organization, market design, social learning, and organizational economics. My work focuses on the role of uncertainty and incentives in equilibrium outcomes.
+Welcome! I'm a PhD candidate in economics at Boston University. I study microeconomic theory with research spanning industrial organization, market design, organizational economics, and social learning. My work focuses on the role of uncertainty in shaping equilibrium outcomes in dynamic settings.
 
 I will be on the job market in AY 2025-2026.
 
@@ -11,13 +11,15 @@ I will be on the job market in AY 2025-2026.
 
 ### Working Papers
 
-**Rockets, Feathers, and Delays: Gasoline Price Cycles under Imperfect Monitoring** <a href = "Files/JMP.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a>
+**A Theory of Efficient Price Cycles** <a href = "Files/JMP.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a>
+
+This paper studies a repeated game with imperfect public monitoring when the players are not expected utility maximizers. I introduce a behaviourally motivated solution concept -- pathwise ex-post equilibrium (PXE) -- which requires that equilibrium actions are optimal for any possible realization of signals. The resulting equilibria have no regret on the path of play. Roughly speaking, players never wish they could go back in time and change their past actions. When applied to a repeated game with price setting firms, PXE yields stark predictions about equilibrium outcomes: either firms play the same price in every period or prices follow a cyclic pattern with long periods of gradual undercutting and infrequent price increases that occur only when prices are close to marginal cost. These results help rationalize observed rockets and feathers price cycles in retail gasoline markets all over the world. I show that the observed cycles can be an efficient mechanism for redistributing surplus between the firms and can therefore help sustain collusive arrangements in the absence of explicit cash transfers.
 
 <br>
 
 **Opt In? Opt Out?** (with [Alex Chan](https://www.alexchan.net/) and Yetong Xu) <a href = "Files/Opt In Opt Out.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a>
 
-Thousands of people die each year waiting for a life-saving organ transplantation. Cadaveric organ donations from the deceased provide the majority of transplanted organs in the U.S. and many other countries. In the U.S., a potential donor has to "opt in" to become a donor under the principle of informed consent. Many countries around the world have shifted cadaveric organ procurement to a presumed consent system where a deceased person is classified as a potential donor in absence of explicit "opting out" of donation before death. Using an event studies design and newly constructed cross-country panel data, we offer novel causal evidence on the impact of presumed consent laws on donation rates. We offer theoretical predictions on when opt in is better than opt out, and when the opposite is true. We study in the laboratory an experimental game modeled on the decision to register as an organ donor and the decision to donate someone's organ on their behalf as a decision proxy to investigate how changes in the default consent regime might impact donations. We find that an "opt in" regime dominates an "opt out" regime except in situations where a population's donation propensity is moderate and where families have little power to overturn the consent.
+Thousands of people die each year waiting for a life-saving organ transplantation. Cadaveric organ donations from the deceased provide the majority of transplanted organs in the U.S. and many other countries. In the U.S., a potential donor has to "opt in" to become a donor under the principle of informed consent. Many countries around the world have shifted cadaveric organ procurement to a presumed consent system where a deceased person is classified as a potential donor in the absence of explicitly "opting out" of donation before death. Using an event studies design and newly constructed cross-country panel data, we offer new causal evidence on the impact of presumed consent laws on donation rates. We offer theoretical predictions on when opt in yields more organs than opt out, and when the opposite is true. We study in the laboratory an experimental game modeled on the decision to register as an organ donor and the decision to donate someone's organ on their behalf as a decision proxy to investigate how changes in the default consent regime might impact donations. We find that an "opt in" regime results in more donations than an "opt out" regime except in situations where a population's donation propensity is moderate and where families have little power to overturn presumed consent.
 
 <br>
 
