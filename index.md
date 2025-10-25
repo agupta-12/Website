@@ -2,7 +2,7 @@
 
 Welcome! I'm a PhD candidate in economics at Boston University. I study microeconomic theory with research spanning industrial organization, market design, organizational economics, and social learning. My work focuses on the role of uncertainty in shaping equilibrium outcomes in dynamic settings.
 
-I will be on the job market in AY 2025-2026.
+I will be on the job market in AY 2025-2026. <a href = "Files/CV.pdf" target = "_blank" rel = "noopener noreferrer">[CV]</a>
 
 <br clear = "left" />
 <br>
