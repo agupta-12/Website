@@ -1,8 +1,12 @@
 <img class = "image" align = "left" style = "width:400px; max-width:100%" src = "/Images/2025.jpg"/>
 
-Welcome! I'm a PhD candidate in economics at Boston University. I study microeconomic theory with research spanning industrial organization, market design, organizational economics, and social learning. My work focuses on the role of uncertainty in shaping equilibrium outcomes in dynamic settings.
+### Welcome!
 
-I will be on the job market in AY 2025-2026. <a href = "Files/CV.pdf" target = "_blank" rel = "noopener noreferrer">[CV]</a>
+I am a microeconomic theorist working on industrial organization, market design, and game theory. My research focuses on the effects of uncertainty on incentives and equilibrium outcomes in dynamic settings.
+
+I graduated from Boston University and will be joining the University of Mannheim as a postdoctoral researcher in August 2026. 
+
+#### <a href = "Files/CV.pdf" target = "_blank" rel = "noopener noreferrer">[CV]</a>
 
 <br clear = "left" />
 <br>
