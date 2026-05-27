@@ -23,9 +23,9 @@ Thousands of people die each year waiting for a life-saving organ transplantatio
 
 <br>
 
-**Utility Maximization Under Endogenous Uncertainty** <a href = "Files/Note.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a> <a href = "http://arxiv.org/abs/2505.06846" target = "_blank" rel = "noopener noreferrer">[arXiv]</a>
+**Utility Maximization Under Endogenous Uncertainty** <a href = "Files/Endogenous Uncertainty.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a> <a href = "http://arxiv.org/abs/2505.06846" target = "_blank" rel = "noopener noreferrer">[arXiv]</a>
 
-This paper establishes a general existence result for optimal decision-making when choices affect the probabilities of uncertain outcomes. We introduce a continuity condition -- a version of upper semi-continuity for choice-dependent probability measures -- which ensures upper semi-continuity of expected utility. Our topological proof does not require standard assumptions such as concavity of preferences or monotonicity of outcome distributions. Additionally, we identify sufficient conditions, including continuity of densities and stochastic dominance, which allow the main assumption to be verified in relevant economic contexts. These findings expand the applicability of expected utility theory in settings with endogenous uncertainty.
+This paper studies decision problems where the decision maker's choice of action affects the probability distribution of a payoff relevant random variable. We establish sufficient conditions for the existence of an expected utility maximizing action in such settings. The main requirement is a mild continuity condition on the family of possible distributions. This condition is also a minimal requirement to ensure the existence of an optimal action. Our result does not require common assumptions such as the monotone likelihood ratio property (MLRP) or the convexity of distribution functions condition (CDFC). It can therefore be used to prove the existence of an optimal action in many settings where existing results do not apply, including an important class of problems where the support of the random variable depends on the decision maker's choice and the density functions are not pointwise continuous.
 
 <br>
 
