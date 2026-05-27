@@ -11,13 +11,7 @@ I will be on the job market in AY 2025-2026. <a href = "Files/CV.pdf" target = "
 
 ### Working Papers
 
-**A Theory of Efficient Price Cycles Under Imperfect Monitoring** <a href = "Files/JMP.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a>
-
-This paper studies collusion between firms that face behavioural and organizational constraints. I introduce a novel solution concept - pathwise ex post equilibrium (PXE) - for repeated games with imperfect public monitoring. In equilibrium, prescribed actions are required to be optimal for any on-path realization of the signals. The resulting equilibria are ex post incentive compatible, have no punishment on the path of play, and are robust to different choice rules such as regret minimization and worst-case payoff maximization. In a game with price setting firms and elastic demand, PXE allows price increases only when margins are sufficiently close to zero. As a result, the _rockets and feathers_ price cycles documented in retail gasoline markets are efficient within the set of PXE outcomes. Intuitively, they serve as an implicit transfer mechanism, allowing the firms to redistribute profits without explicit cash payments. Price cycles may therefore reflect a deliberate collusive outcome rather than random shocks or coordination failures.
-
-<br>
-
-**Opt In? Opt Out?** (with [Alex Chan](https://www.alexchan.net/) and Yetong Xu) <a href = "Files/Opt In Opt Out.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a>
+**Opt In? Opt Out?** (with [Alex Chan](https://www.alexchan.net/) and Yetong Xu) <a href = "Files/Opt In Opt Out.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a> <a href = "https://www.nber.org/papers/w35169" target = "_blank" rel = "noopener noreferrer">[NBER]</a>
 
 Thousands of people die each year waiting for a life-saving organ transplantation. Cadaveric organ donations from the deceased provide the majority of transplanted organs in the U.S. and many other countries. In the U.S., a potential donor has to "opt in" to become a donor under the principle of informed consent. Many countries around the world have shifted cadaveric organ procurement to a presumed consent system where a deceased person is classified as a potential donor in the absence of explicitly "opting out" of donation before death. Using an event studies design and newly constructed cross-country panel data, we offer new causal evidence on the impact of presumed consent laws on donation rates. We offer theoretical predictions on when opt in yields more organs than opt out, and when the opposite is true. We study in the laboratory an experimental game modeled on the decision to register as an organ donor and the decision to donate someone's organ on their behalf as a decision proxy to investigate how changes in the default consent regime might impact donations. We find that an "opt in" regime results in more donations than an "opt out" regime except in situations where a population's donation propensity is moderate and where families have little power to overturn presumed consent.
 
@@ -26,6 +20,12 @@ Thousands of people die each year waiting for a life-saving organ transplantatio
 **Utility Maximization Under Endogenous Uncertainty** <a href = "Files/Endogenous Uncertainty.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a> <a href = "http://arxiv.org/abs/2505.06846" target = "_blank" rel = "noopener noreferrer">[arXiv]</a>
 
 This paper studies decision problems where the decision maker's choice of action affects the probability distribution of a payoff relevant random variable. We establish sufficient conditions for the existence of an expected utility maximizing action in such settings. The main requirement is a mild continuity condition on the family of possible distributions. We also show that this condition is a minimal requirement. Our result does not require common assumptions such as the monotone likelihood ratio property (MLRP) or the convexity of distribution functions condition (CDFC). It can therefore be used to prove the existence of an optimal action in many settings where existing results do not apply, including an important class of problems where the support of the random variable depends on the decision maker's choice and the density functions are not pointwise continuous.
+
+<br>
+
+**A Theory of Efficient Price Cycles Under Imperfect Monitoring** <a href = "Files/JMP.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a>
+
+This paper studies collusion between firms that face behavioural and organizational constraints. I introduce a novel solution concept - pathwise ex post equilibrium (PXE) - for repeated games with imperfect public monitoring. In equilibrium, prescribed actions are required to be optimal for any on-path realization of the signals. The resulting equilibria are ex post incentive compatible, have no punishment on the path of play, and are robust to different choice rules such as regret minimization and worst-case payoff maximization. In a game with price setting firms and elastic demand, PXE allows price increases only when margins are sufficiently close to zero. As a result, the _rockets and feathers_ price cycles documented in retail gasoline markets are efficient within the set of PXE outcomes. Intuitively, they serve as an implicit transfer mechanism, allowing the firms to redistribute profits without explicit cash payments. Price cycles may therefore reflect a deliberate collusive outcome rather than random shocks or coordination failures.
 
 <br>
 
