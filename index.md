@@ -1,11 +1,3 @@
-<div class = "name-row">
-
-Ayush Gupta
-
-<a class = "cv-link" href = "Files/CV.pdf" target = "_blank" rel = "noopener noreferrer"> [CV] </a>
-
-</div>
-
 <div class = "about">
 
 <div class = "about-text" markdown = "1">
