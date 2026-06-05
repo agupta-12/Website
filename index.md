@@ -1,6 +1,4 @@
-<img class = "image" align = "left" style = "width:500px; max-width:100%" src = "/Images/2025.jpg"/>
-
-<br>
+<img class = "image" align = "right" style = "width:500px; max-width:100%" src = "/Images/2025.jpg"/>
 
 ### Welcome!
 
@@ -10,7 +8,7 @@ I graduated from Boston University and will be joining the University of Mannhei
 
 <a href = "Files/CV.pdf" target = "_blank" rel = "noopener noreferrer"> CV </a>
 
-<br clear = "left" />
+<br clear = "right" />
 <br>
 
 # Research
