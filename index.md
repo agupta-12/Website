@@ -1,32 +1,3 @@
-<style>
-.about {
-  display: flex;
-  gap: 2rem;
-  align-items: flex-start;
-}
-
-.about-text,
-.about-photo {
-  flex: 1;
-}
-
-.about-photo img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
-@media (max-width: 700px) {
-  .about {
-    display: block;
-  }
-
-  .about-photo {
-    margin-top: 1.5rem;
-  }
-}
-</style>
-
 <div class="about">
 
 <div class = "about-text" markdown = "1">
