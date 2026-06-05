@@ -3,19 +3,22 @@
 
 @import "{{ site.theme }}";
 
-.name-row {
+header h1 {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
   gap: 1rem;
 }
 
-.name-row h1 {
-  margin-bottom: 1rem;
+header h1 a {
+  font-size: 1rem;
+  font-weight: normal;
+  white-space: nowrap;
 }
 
-.cv-link {
-  white-space: nowrap;
+header h1 a:hover,
+header h1 a:focus {
+  font-weight: normal;
 }
 
 .about {
