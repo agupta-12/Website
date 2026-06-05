@@ -3,19 +3,6 @@
 
 @import "{{ site.theme }}";
 
-header h1 {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 1rem;
-}
-
-header h1 a {
-  font-size: 1rem;
-  font-weight: normal;
-  white-space: nowrap;
-}
-
 .about {
   display: flex;
   gap: 1rem;
