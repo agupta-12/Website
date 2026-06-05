@@ -1,3 +1,4 @@
 title: Ayush Gupta
 
-link-col: "rgb(204, 0, 0)"
+navbar-links:
+  CV: "{ '/Files/CV.pdf' | relative_url }"
