@@ -16,11 +16,6 @@ header h1 a {
   white-space: nowrap;
 }
 
-header h1 a:hover,
-header h1 a:focus {
-  font-weight: normal;
-}
-
 .about {
   display: flex;
   gap: 1rem;
