@@ -15,7 +15,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><span> {{ site.title | default: site.github.repository_name }} </span><a href = "{{ '/Files/CV.pdf' | relative_url }}"> CV </a></h1>
+        <h1> {{ site.title | default: site.github.repository_name }} <a href = "{{ '/Files/CV.pdf' | relative_url }}"> CV </a></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
