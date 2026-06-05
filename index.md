@@ -1,5 +1,7 @@
 <img class = "image" align = "left" style = "width:500px; max-width:100%" src = "/Images/2025.jpg"/>
 
+<br>
+
 ### Welcome!
 
 I am a microeconomic theorist working on industrial organization, market design, and game theory. My research focuses on the effects of uncertainty on incentives and equilibrium outcomes in dynamic settings.
