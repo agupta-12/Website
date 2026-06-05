@@ -1,39 +1,77 @@
-<img class = "image" align = "right" style = "width:500px; max-width:100%" src = "/Images/2025.jpg"/>
+<style>
+.about {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.about-text,
+.about-photo {
+  flex: 1;
+}
+
+.about-photo img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (max-width: 700px) {
+  .about {
+    display: block;
+  }
+
+  .about-photo {
+    margin-top: 1.5rem;
+  }
+}
+</style>
+
+<div class="about">
+
+<div class = "about-text" markdown = "1">
 
 ### Welcome!
 
 I am a microeconomic theorist working on industrial organization, market design, and game theory. My research focuses on the effects of uncertainty on incentives and equilibrium outcomes in dynamic settings.
 
-I graduated from Boston University and will be joining the University of Mannheim as a postdoctoral researcher in August 2026. 
+I graduated from Boston University and will be joining the University of Mannheim as a postdoctoral researcher in August 2026.
 
 <a href = "Files/CV.pdf" target = "_blank" rel = "noopener noreferrer"> CV </a>
 
-<br clear = "right" />
-<br>
+</div>
+
+<div class = "about-photo">
+
+<img src = "/Images/2025.jpg">
+
+</div>
+
+</div>
 
 # Research
 
 ### Working Papers
 
-**Opt In? Opt Out?** (with [Alex Chan](https://www.alexchan.net/) and Yetong Xu) <a href = "Files/Opt In Opt Out.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a> <a href = "https://www.nber.org/papers/w35169" target = "_blank" rel = "noopener noreferrer">[NBER]</a>
+**Opt In? Opt Out?** (with [Alex Chan](https://www.alexchan.net/) and Yetong Xu) <a href = "Files/Opt In Opt Out.pdf" target = "_blank" rel = "noopener noreferrer"> [PDF] </a> <a href = "https://www.nber.org/papers/w35169" target = "_blank" rel = "noopener noreferrer"> [NBER] </a>
 
 Thousands of people die each year waiting for a life-saving organ transplantation. Cadaveric organ donations from the deceased provide the majority of transplanted organs in the U.S. and many other countries. In the U.S., a potential donor has to "opt in" to become a donor under the principle of informed consent. Many countries around the world have shifted cadaveric organ procurement to a presumed consent system where a deceased person is classified as a potential donor in the absence of explicitly "opting out" of donation before death. Using an event studies design and newly constructed cross-country panel data, we offer new causal evidence on the impact of presumed consent laws on donation rates. We offer theoretical predictions on when opt in yields more organs than opt out, and when the opposite is true. We study in the laboratory an experimental game modeled on the decision to register as an organ donor and the decision to donate someone's organ on their behalf as a decision proxy to investigate how changes in the default consent regime might impact donations. We find that an "opt in" regime results in more donations than an "opt out" regime except in situations where a population's donation propensity is moderate and where families have little power to overturn presumed consent.
 
 <br>
 
-**Utility Maximization Under Endogenous Uncertainty** <a href = "Files/Endogenous Uncertainty.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a> <a href = "http://arxiv.org/abs/2505.06846" target = "_blank" rel = "noopener noreferrer">[arXiv]</a>
+**Utility Maximization Under Endogenous Uncertainty** <a href = "Files/Endogenous Uncertainty.pdf" target = "_blank" rel = "noopener noreferrer"> [PDF] </a> <a href = "http://arxiv.org/abs/2505.06846" target = "_blank" rel = "noopener noreferrer"> [arXiv] </a>
 
 This paper studies decision problems where the decision maker's choice of action affects the probability distribution of a payoff relevant random variable. We establish sufficient conditions for the existence of an expected utility maximizing action in such settings. The main requirement is a mild continuity condition on the family of possible distributions. We also show that this condition is a minimal requirement. Our result does not require common assumptions such as the monotone likelihood ratio property (MLRP) or the convexity of distribution functions condition (CDFC). It can therefore be used to prove the existence of an optimal action in many settings where existing results do not apply, including an important class of problems where the support of the random variable depends on the decision maker's choice and the density functions are not pointwise continuous.
 
 <br>
 
-**A Theory of Efficient Price Cycles Under Imperfect Monitoring** <a href = "Files/JMP.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a>
+**A Theory of Efficient Price Cycles Under Imperfect Monitoring** <a href = "Files/JMP.pdf" target = "_blank" rel = "noopener noreferrer"> [PDF] </a>
 
 This paper studies collusion between firms that face behavioural and organizational constraints. I introduce a novel solution concept - pathwise ex post equilibrium (PXE) - for repeated games with imperfect public monitoring. In equilibrium, prescribed actions are required to be optimal for any on-path realization of the signals. The resulting equilibria are ex post incentive compatible, have no punishment on the path of play, and are robust to different choice rules such as regret minimization and worst-case payoff maximization. In a game with price setting firms and elastic demand, PXE allows price increases only when margins are sufficiently close to zero. As a result, the _rockets and feathers_ price cycles documented in retail gasoline markets are efficient within the set of PXE outcomes. Intuitively, they serve as an implicit transfer mechanism, allowing the firms to redistribute profits without explicit cash payments. Price cycles may therefore reflect a deliberate collusive outcome rather than random shocks or coordination failures.
 
 <br>
 
-**Incentives, Supervision, and Limits to Firm Size** <a href = "Files/Paper.pdf" target = "_blank" rel = "noopener noreferrer">[PDF]</a> <a href = "http://ssrn.com/abstract=5182004" target = "_blank" rel = "noopener noreferrer">[SSRN]</a>
+**Incentives, Supervision, and Limits to Firm Size** <a href = "Files/Paper.pdf" target = "_blank" rel = "noopener noreferrer"> [PDF] </a> <a href = "http://ssrn.com/abstract=5182004" target = "_blank" rel = "noopener noreferrer"> [SSRN] </a>
 
 This paper studies how incentive problems affect the size and structure of a firm (or any other organization) with one principal and many agents. We develop a model in which worker effort, supervision, and wages are determined endogenously. Our model generalizes much of the existing literature by making minimal assumptions about the production technology and the nature of supervision. Using a novel optimization technique, we establish necessary and sufficient conditions for the size of a firm to not be limited by incentive problems. We show that firms are limited to a positive, but finite, number of workers under reasonable assumptions. Firm size is unbounded only when worker productivity is sufficiently greater than the dis-utility of effort.
 
