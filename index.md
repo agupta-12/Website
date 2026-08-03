@@ -80,4 +80,4 @@ Intermediate Macroeconomics (Undergraduate) - _University of Toronto_ (Summer 20
 
 # Contact
 
-**Email** guptaayu [at] bu.edu
+**Email** ayush.gupta [at] uni-mannheim.de
