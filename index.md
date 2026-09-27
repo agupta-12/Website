@@ -2,13 +2,10 @@
 title: Ayush Gupta
 ---
 
-<div class = "name-row">
-  
-<h1> Ayush Gupta </h1>
-
-<a class = "cv-link" href = "/Files/CV.pdf" target = "_blank" rel = "noopener noreferrer"> [CV] </a>
-
-</div>
+<h1 class = "title-row">
+  <a href = "/"> Ayush Gupta </a>
+  <a href = "/Files/CV.pdf" target = "_blank" rel = "noopener noreferrer"> CV </a>
+</h1>
 
 <div class = "about">
 
