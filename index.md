@@ -8,7 +8,6 @@ title: Ayush Gupta
 </h1>
 
 <div class = "about">
-
 <div class = "about-text" markdown = "1">
 
 ### Welcome!
@@ -21,14 +20,10 @@ I received my PhD from Boston University in 2026.
 
 **Email** ayush.gupta [at] uni-mannheim.de
 
-<a href = "Files/CV.pdf" target = "_blank" rel = "noopener noreferrer"> [CV] </a>
-
 </div>
 
 <div class = "about-photo">
-
-<img src = "/Images/2025.jpg">
-
+  <img src = "/Images/2025.jpg">
 </div>
 
 </div>
