@@ -4,9 +4,13 @@
 
 ### Welcome!
 
-I am a microeconomic theorist working on industrial organization, market design, and game theory. My research focuses on the effects of uncertainty on incentives and equilibrium outcomes in dynamic settings.
+I am a postdoctoral researcher in the Department of Economics at the University of Mannheim.
 
-I graduated from Boston University and will be joining the University of Mannheim as a postdoctoral researcher in August 2026.
+I research microeconomic theory with a focus on industrial organization and market design.
+
+I received my PhD from Boston University in 2026.
+
+**Email** ayush.gupta [at] uni-mannheim.de
 
 <a href = "Files/CV.pdf" target = "_blank" rel = "noopener noreferrer"> [CV] </a>
 
@@ -75,9 +79,3 @@ Economics of Sports (Undergraduate) - _Boston University_ (Fall 2021)
 Game Theory (Undergraduate) - _University of Toronto_ (Fall 2017)
 
 Intermediate Macroeconomics (Undergraduate) - _University of Toronto_ (Summer 2017)
-
-<br>
-
-# Contact
-
-**Email** ayush.gupta [at] uni-mannheim.de
