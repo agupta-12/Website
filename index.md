@@ -1,3 +1,7 @@
+---
+title: Ayush Gupta
+---
+
 <div class = "name-row">
   
 <h1> Ayush Gupta </h1>
