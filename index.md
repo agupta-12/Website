@@ -3,7 +3,7 @@ title: Ayush Gupta
 ---
 
 <h1 class = "title-row">
-  Ayush Gupta
+  <a href = "/"> Ayush Gupta </a>
   <a href = "/Files/CV.pdf" target = "_blank" rel = "noopener noreferrer"> CV </a>
 </h1>
 
