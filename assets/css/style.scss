@@ -3,6 +3,22 @@
 
 @import "{{ site.theme }}";
 
+.name-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.name-row h1 {
+  flex: 1;
+  margin-top: 0;
+}
+
+.cv-link {
+  white-space: nowrap;
+}
+
 .about {
   display: flex;
   gap: 1rem;
