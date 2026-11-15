@@ -36,6 +36,8 @@ I received my PhD from Boston University in 2026.
 
 This paper studies decision problems where the decision maker's choice of action affects the probability distribution of a payoff relevant random variable. We establish sufficient conditions for the existence of an expected utility maximizing action in such settings. The main requirement is a mild continuity condition on the family of possible distributions. We also show that this condition is a minimal requirement. Our result does not require common assumptions such as the monotone likelihood ratio property (MLRP) or the convexity of distribution functions condition (CDFC). It can therefore be used to prove the existence of an optimal action in many settings where existing results do not apply, including an important class of problems where the support of the random variable depends on the decision maker's choice and the density functions are not pointwise continuous.
 
+<br>
+
 ### Working Papers
 
 **A Theory of Efficient Price Cycles Under Imperfect Monitoring** <a href = "Files/Price Cycles.pdf" target = "_blank" rel = "noopener noreferrer"> [PDF] </a>
