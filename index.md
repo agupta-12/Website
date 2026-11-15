@@ -30,6 +30,12 @@ I received my PhD from Boston University in 2026.
 
 # Research
 
+### Publications
+
+**Utility Maximization Under Endogenous Uncertainty** (_Economics Letters_, accepted) <a href = "Files/Endogenous Uncertainty.pdf" target = "_blank" rel = "noopener noreferrer"> [PDF] </a>
+
+This paper studies decision problems where the decision maker's choice of action affects the probability distribution of a payoff relevant random variable. We establish sufficient conditions for the existence of an expected utility maximizing action in such settings. The main requirement is a mild continuity condition on the family of possible distributions. We also show that this condition is a minimal requirement. Our result does not require common assumptions such as the monotone likelihood ratio property (MLRP) or the convexity of distribution functions condition (CDFC). It can therefore be used to prove the existence of an optimal action in many settings where existing results do not apply, including an important class of problems where the support of the random variable depends on the decision maker's choice and the density functions are not pointwise continuous.
+
 ### Working Papers
 
 **A Theory of Efficient Price Cycles Under Imperfect Monitoring** <a href = "Files/Price Cycles.pdf" target = "_blank" rel = "noopener noreferrer"> [PDF] </a>
@@ -41,12 +47,6 @@ This paper studies collusion between firms that face behavioural and organizatio
 **Opt In? Opt Out?** (with [Alex Chan](https://www.alexchan.net/) and Yetong Xu) <a href = "Files/Opt In Opt Out.pdf" target = "_blank" rel = "noopener noreferrer"> [PDF] </a> <a href = "https://www.nber.org/papers/w35169" target = "_blank" rel = "noopener noreferrer"> [NBER] </a>
 
 Cadaveric organ shortages leave thousands without life-saving transplants each year. Countries differ in using opt-in (informed consent) or opt-out (presumed consent) systems for donor registration. Using newly assembled cross-country panel data and an event-study design, this paper shows that presumed-consent laws are associated with increased organ donation only when strictly enforced and family veto power is limited; weak opt-out regimes show negligible or even negative changes. A theoretical signaling model provides a plausible mechanism that determines when opt-in or opt-out yields more donations, emphasizing the roles of donation propensity, signaling costs, and the family’s ability to overturn defaults. A large laboratory experiment further tests this mechanism, showing that opt-in generally produces equal or higher donation rates unless signaling is costly and family veto power is minimal. The results underscore that defaults alone rarely increase donations unless paired with strong institutional enforcement.
-
-<br>
-
-**Utility Maximization Under Endogenous Uncertainty** <a href = "Files/Endogenous Uncertainty.pdf" target = "_blank" rel = "noopener noreferrer"> [PDF] </a>
-
-This paper studies decision problems where the decision maker's choice of action affects the probability distribution of a payoff relevant random variable. We establish sufficient conditions for the existence of an expected utility maximizing action in such settings. The main requirement is a mild continuity condition on the family of possible distributions. We also show that this condition is a minimal requirement. Our result does not require common assumptions such as the monotone likelihood ratio property (MLRP) or the convexity of distribution functions condition (CDFC). It can therefore be used to prove the existence of an optimal action in many settings where existing results do not apply, including an important class of problems where the support of the random variable depends on the decision maker's choice and the density functions are not pointwise continuous.
 
 <br>
 
